@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://xnovax.net](https://xnovax.net)
+- 👨‍💻 All of my projects are available at [https://spindlers.ca/aaron](https://spindlers.ca/aaron)
 
 - 📝 I regularly write articles on [https://medium.com/@aaron_spindler](https://medium.com/@aaron_spindler)
 
