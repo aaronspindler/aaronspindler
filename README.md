@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating AI Bot that is Actually Useful](https://medium.com/@aaron_spindler/creating-ai-bot-that-is-actually-useful-d840ef2d9735?source=rss-54c5470de4d------2)
 - [Interviewing at ShippingTree](https://medium.com/interviewing-at/interviewing-at-shippingtree-bbcb86705052?source=rss-54c5470de4d------2)
 - [Interviewing at CBSA](https://medium.com/interviewing-at/interviewing-at-cbsa-ee9ffdbf9b1?source=rss-54c5470de4d------2)
 - [Interviewing at PlushCare](https://medium.com/interviewing-at/interviewing-at-plushcare-39053af6360e?source=rss-54c5470de4d------2)
-- [4 Things They Don’t Tell You Before You Get a Puppy](https://medium.com/@aaron_spindler/4-things-they-dont-tell-you-before-you-get-a-puppy-f2f1afa73166?source=rss-54c5470de4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
