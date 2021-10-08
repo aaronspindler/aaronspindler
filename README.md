@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aaron Spindler</h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A passionate software engineer from Canada 🇨🇦</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aaronspindler&label=Profile%20views&color=0e75b6&style=flat" alt="aaronspindler" /> </p>
 
 - 🔭 I’m currently working at **ShippingTree** as a Software Engineer
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** and working on a [ML Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur)
 
 - 👨‍💻 All of my projects are available at [https://spindlers.ca/aaron](https://spindlers.ca/aaron)
 
