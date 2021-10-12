@@ -11,8 +11,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aaron_spindler](https://medium.com/@aaron_spindler)
 
-- 💬 Ask me about **Django, dogs, and shooting sports**
-
 - 📫 How to reach me **aaron@spindlers.ca**
 
 ### Blogs posts
