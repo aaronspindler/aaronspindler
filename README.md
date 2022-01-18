@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aaronspindler&label=Profile%20views&color=0e75b6&style=flat" alt="aaronspindler" /> </p>
 
-- 🔭 I’m currently working at **ShippingTree** as a Software Engineer
+- 🔭 I’m currently working as a Software Engineer
 
 - 🌱 I’m currently learning **ReactJS** and working on a [ML Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur)
 
