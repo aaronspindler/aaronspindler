@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Software Engineer
 
-- 🌱 I’m currently learning **ReactJS** and working on a [ML Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur)
+- 🌱 I’m working on an [AI Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur) in my free time
 
 - 👨‍💻 All of my projects are available at [https://spindlers.ca/aaron](https://spindlers.ca/aaron)
 
