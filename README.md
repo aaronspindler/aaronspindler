@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at [Pearl Health ⚕](https://pearlhealth.com/)
 
-- 🌱 I’m working on an [AI Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur) in my free time
+- 🌱 I’m working on an [AI Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur) and [Team.Bio](https://team.bio) in my free time
 
 - 👨‍💻 All of my projects are available at [https://spindlers.ca/aaron](https://spindlers.ca/aaron)
 
