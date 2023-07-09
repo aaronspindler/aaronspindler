@@ -7,8 +7,6 @@
 
 - 🌱 I’m working on an [AI Lightroom Image Processor](https://github.com/aaronspindler/lightroom-blur) and [Team.Bio](https://team.bio) in my free time
 
-- 👨‍💻 All of my projects are available at [https://spindlers.ca/aaron](https://spindlers.ca/aaron)
-
 - 📝 I regularly write articles on [https://medium.com/@aaron_spindler](https://medium.com/@aaron_spindler)
 
 - 📫 How to reach me **aaron@spindlers.ca**
