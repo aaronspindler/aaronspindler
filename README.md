@@ -7,16 +7,12 @@
 
 - 🌱 I’m working on an [Image Processor](https://github.com/aaronspindler/lightroom) and [Team.Bio](https://team.bio) in my free time
 
-- 📝 I regularly write articles on [https://medium.com/@aaron_spindler](https://medium.com/@aaron_spindler)
-
 - 📫 How to reach me **aaron@spindlers.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaron-spindler" target="blank">LinkedIn</a>
-  <br>
-<a href="https://medium.com/@aaron_spindler" target="blank">Medium</a>
-  <br>
+<br>
 <a href="https://github.com/aaronspindler-archive" target="blank">My Archived Repos</a>
 </p>
 
