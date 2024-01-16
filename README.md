@@ -15,7 +15,3 @@
 <br>
 <a href="https://github.com/aaronspindler-archive" target="blank">My Archived Repos</a>
 </p>
-
-<hr>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronspindler&theme=dark" alt="aaronspindler" /></p>
