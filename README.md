@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Aaron</h1>
-<h3 align="center">A Senior Software Engineer from Canada 🇨🇦 working on making healthcare better!</h3>
+<h3 align="center">A Senior Software Engineer from 🇨🇦 working on making 🇺🇸 healthcare better!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aaronspindler&label=Profile%20views&color=0e75b6&style=flat" alt="aaronspindler" /> </p>
 
 - 🔭 I’m currently working as a Senior Software Engineer at [Pearl Health ⚕](https://pearlhealth.com/)
 
-- 🌱 I’m working on an [Image Processor](https://github.com/aaronspindler/lightroom) and [Team.Bio](https://team.bio) in my free time
+- 🌱 I’m working on [Team.Bio](https://team.bio) in my free time
 
 - 📫 How to reach me **aaron@spindlers.ca**
 
