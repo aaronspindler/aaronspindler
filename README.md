@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **aaron@spindlers.ca**
 
+<h3 align="left">Experience:</h3>
+<p align="left">
+  <ul>
+    <li><img src="https://pearlhealth.com/wp-content/uploads/2022/02/apple-icon-180x180-1-150x150.png" width=16 height=16/> Pearl Health | 2022 - Current</li>
+    <li><img src="https://shippingtree.co/wp-content/uploads/2020/08/shipping-fav.png" width=16 height=16/> ShippingTree | 2021 - 2022</li>
+    <li><img src="https://www.cbsa-asfc.gc.ca/favicon.ico" width=16 height=16/> Canada Border Services Agency | 2020 - 2021</li>
+  </ul>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaron-spindler" target="blank">LinkedIn</a>
