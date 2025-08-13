@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Senior Software Engineer at [Pearl Health ⚕](https://pearlhealth.com/)
 
-- 🌱 I’m working on [Poseidon](https://github.com/aaronspindler/Poseidon) in my free time
+- 🌱 I’m working on [Poseidon](https://github.com/aaronspindler/Poseidon) and [Lightroom](https://github.com/aaronspindler/lightroom) in my free time
 
 - 📫 How to reach me **aaron@spindlers.ca**
 
