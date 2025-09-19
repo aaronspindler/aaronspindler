@@ -75,12 +75,12 @@
 </thead>
 <tbody>
   <tr>
-    <td><strong>Team Bio</strong></td>
+    <td><strong><a href="https://github.com/aaronspindler/Team.Bio">Team Bio</a></strong></td>
     <td>Platform to foster professional connections between coworkers within a company through profiles, trivia, coffee chats, and more.</td>
     <td><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code></td>
   </tr>
   <tr>
-    <td><strong>ActionsUptime</strong></td>
+    <td><strong><a href="https://github.com/aaronspindler/aaronspindler.com/tree/main/projects/ActionsUptime">ActionsUptime</a></strong></td>
     <td>Platform to monitor GitHub Actions and any endpoint to get notifications when they fail.</td>
     <td><code>Django</code> <code>PostgreSQL</code> <code>Celery</code> <code>Redis</code></td>
   </tr>
