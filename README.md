@@ -129,7 +129,7 @@
 <br>
 
 ## Blog
-![Knowledge Graph](https://aaronspindler.com/api/knowledge-graph/screenshot/)
+![Knowledge Graph Screenshot](https://aaronspindler.com/api/knowledge-graph/screenshot/)
 
 <blockquote>
   <strong>📝 Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
