@@ -18,7 +18,7 @@
 
 ## About me
 
-> I'm a Senior Software Engineer with a lifelong passion for building technology that solves real problems. My journey began at 12 when I built my first website, and evolved through robotics championships, early bitcoin mining, and founding a startup. I've automated immigration processes for the Canadian government, streamlined logistics at a 3PL startup, and now I'm tackling healthcare's biggest challenges at Pearl Health. With over 7 years of professional experience, I bring a unique blend of technical depth and entrepreneurial thinking to every project.
+> I'm a Senior Software Engineer with a lifelong passion for building technology that solves real problems. My journey began at 12 when I built my first website, and evolved through robotics championships, early bitcoin mining, and founding a startup. I've automated immigration processes for the Canadian government, streamlined logistics at a 3PL startup, and now I'm tackling healthcare's biggest challenges at Pearl Health. With over 10 years of professional experience, I bring a unique blend of technical depth and entrepreneurial thinking to every project.
 
 <br>
 
