@@ -1,0 +1,67 @@
+name: Update README Blog Posts
+
+on:
+  schedule:
+    # Run daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch blog posts and update README
+        run: |
+          # Fetch posts from API
+          POSTS=$(curl -s https://aaronspindler.com/api/posts/)
+
+          # Check if API returned successfully
+          if [ "$(echo "$POSTS" | jq -r '.status')" != "success" ]; then
+            echo "API request failed"
+            exit 1
+          fi
+
+          # Generate HTML list from posts (matching existing format)
+          POST_LINKS=$(echo "$POSTS" | jq -r '.data.posts[] | "  • <a href=\"\(.url)\">\(.title)</a><br>"')
+
+          # Build the full blog content block
+          BLOG_CONTENT='<blockquote>
+  <strong>Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
+'"$POST_LINKS"'
+</blockquote>'
+
+          # Create new README with updated blog section
+          # Extract content before BLOG_START marker (including the marker)
+          sed -n '1,/<!-- BLOG_START -->/p' README.md > README.tmp
+
+          # Add the new blog content
+          echo "$BLOG_CONTENT" >> README.tmp
+
+          # Extract content from BLOG_END marker onwards (including the marker)
+          sed -n '/<!-- BLOG_END -->/,$p' README.md >> README.tmp
+
+          mv README.tmp README.md
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update blog posts from aaronspindler.com"
+          git push

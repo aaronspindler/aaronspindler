@@ -131,6 +131,7 @@
 ## Blog
 ![Knowledge Graph Screenshot](https://aaronspindler.com/api/knowledge-graph/screenshot/)
 
+<!-- BLOG_START -->
 <blockquote>
   <strong>📝 Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
   • <a href="https://aaronspindler.com/b/0005_knowledge_graph/">0005 Knowledge Graph</a><br>
@@ -139,6 +140,7 @@
   • <a href="https://aaronspindler.com/b/0002_cut_out_the_bloat/">0002 Cut Out The Bloat</a><br>
   • <a href="https://aaronspindler.com/b/0001_what_even_is_this/">0001 What Even Is This</a>
 </blockquote>
+<!-- BLOG_END -->
 
 <br>
 
