@@ -31,10 +31,10 @@ jobs:
           POST_LINKS=$(echo "$POSTS" | jq -r '.data.posts[] | "  • <a href=\"\(.url)\">\(.title)</a><br>"')
 
           # Build the full blog content block
-          BLOG_CONTENT='<blockquote>
-  <strong>Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
-'"$POST_LINKS"'
-</blockquote>'
+          BLOG_CONTENT="<blockquote>
+          <strong>Latest posts from <a href=\"https://aaronspindler.com\">aaronspindler.com</a></strong><br><br>
+          $POST_LINKS
+          </blockquote>"
 
           # Create new README with updated blog section
           # Extract content before BLOG_START marker (including the marker)
