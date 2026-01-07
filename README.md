@@ -80,7 +80,7 @@
     <td><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code></td>
   </tr>
   <tr>
-    <td><strong><a href="https://github.com/aaronspindler/aaronspindler.com/tree/main/projects/ActionsUptime">ActionsUptime</a></strong></td>
+    <td><strong>ActionsUptime</strong></td>
     <td>Platform to monitor GitHub Actions and any endpoint to get notifications when they fail.</td>
     <td><code>Django</code> <code>PostgreSQL</code> <code>Celery</code> <code>Redis</code></td>
   </tr>
