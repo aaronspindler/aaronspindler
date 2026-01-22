@@ -1,6 +1,6 @@
 <h1 align="center">AARON SPINDLER</h1>
 <p align="center">
-  <em>An engineer, father, husband, and a proud 🇨🇦</em>
+  <em>An engineer, tinker, and a proud 🇨🇦</em>
 </p>
 
 <p align="center">
