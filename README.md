@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td><strong>Roomscout</strong></td>
-    <td>Full Stack Developer</td>
+    <td>Founder</td>
     <td><code>2017 - 2020</code></td>
     <td>Revolutionized roommate matching platform</td>
   </tr>
