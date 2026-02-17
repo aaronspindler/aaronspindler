@@ -161,5 +161,5 @@
 <br>
 
 <div align="center">
-  <sub>© 2025 Spindlers. All rights reserved. | <a href="https://github.com/aaronspindler-archive">Archive</a></sub>
+  <sub>© 2026 Spindlers. All rights reserved. | <a href="https://github.com/aaronspindler-archive">Archive</a></sub>
 </div>
