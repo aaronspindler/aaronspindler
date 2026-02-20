@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://aaronspindler.com">Website</a> • 
-  <a href="https://github.com/aaronspindler">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/aaron-spindler/">LinkedIn</a> • 
   <a href="https://x.com/aaron_spindler">X</a>
 </p>
 
