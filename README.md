@@ -134,11 +134,11 @@
 <!-- BLOG_START -->
 <blockquote>
 <strong>Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
-  • <a href="https://aaronspindler.com/b/personal/0009_Be_your_own_first_customer/">Be your own first customer</a><br>
   • <a href="https://aaronspindler.com/b/projects/0008_Personal_Site_LLM_Chat_with_RAG/">Personal Site LLM Chat with RAG</a><br>
   • <a href="https://aaronspindler.com/b/tech/0007_The_Results_Of_Cutting_Out_The_Bloat/">The Results Of Cutting Out The Bloat</a><br>
   • <a href="https://aaronspindler.com/b/projects/0006_iMessageLLM/">iMessageLLM</a><br>
   • <a href="https://aaronspindler.com/b/tech/0005_Knowledge_Graph/">Knowledge Graph</a><br>
+  • <a href="https://aaronspindler.com/b/personal/0004_This_Blog_Aint_Perfect/">This Blog Aint Perfect</a><br>
 </blockquote>
 <!-- BLOG_END -->
 
