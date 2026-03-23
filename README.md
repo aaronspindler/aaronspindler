@@ -129,8 +129,6 @@
 <br>
 
 ## Blog
-![Knowledge Graph Screenshot](https://aaronspindler.com/api/knowledge-graph/screenshot/)
-
 <!-- BLOG_START -->
 <blockquote>
 <strong>Latest posts from <a href="https://aaronspindler.com">aaronspindler.com</a></strong><br><br>
