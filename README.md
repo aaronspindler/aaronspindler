@@ -22,7 +22,7 @@
 
 <br>
 
-## Experience
+## Work History
 
 <table>
 <thead>
